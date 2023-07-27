@@ -4,7 +4,7 @@
 
 ##
 <a href="https://github.com/ShishirBhandari">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShishirBhandari&count_private=true&show_icons=true&theme=yeblu&bg_color=45,000512,002046" />
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShishirBhandari&count_private=true&show_icons=true&theme=yeblu&bg_color=45,000512,002046" /> -->
 </a>
 
 <!--
